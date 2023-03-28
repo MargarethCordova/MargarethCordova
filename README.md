@@ -13,6 +13,9 @@
     <a href="https://open.spotify.com/playlist/3TNMcoGu5xhkUNgd5EXPqv?si=hwLhcHGPT8qoLAdftQ8ELA" target="_blank">
       <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank">
     </a>
+    <a href="https://replit.com/@MargarethCordov" target="_blank">
+      <img src="https://img.shields.io/badge/Replit-100000?style=for-the-badge&logo=replit&logoColor=white" target="_blank">
+    </a>
   </div>
   <div id="sub">
 
