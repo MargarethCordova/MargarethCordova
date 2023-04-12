@@ -25,7 +25,7 @@
   <div>
     <ul>
       <li>📝 I am a student in continuous learning about <strong>Web Development</strong>.</li>
-      <li>🌱 I am currently learning <strong>JavaScript, Git and GitHub</strong>.</li>
+      <li>🌱 I am currently learning <strong>JavaScript, python</strong>.</li>
       <li>💬 Ask me about <strong>HTML and CSS</strong>.</li>
       <li>🌐 I am part of <strong>ENIAC: < Women's code > </strong></li>
     </ul>
